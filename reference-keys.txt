@@ -1,4 +1,4 @@
 a-mini-bookdown-about-lauren
-introduction
+beginning
 main
 conclusion
