@@ -5,5 +5,4 @@ site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
-# A Mini Bookdown about Lauren
-By Lauren
+Enjoy!
